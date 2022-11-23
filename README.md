@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Yurij2015
+- 👋 Hi, I’m @Yurii Mokryi
 - 👀 I’m interested in programming
