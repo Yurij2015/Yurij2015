@@ -3,5 +3,4 @@
 
 <p align="center"> 
   Visitor count<br>
-  https://visitor-badge.glitch.me/badge?page_id=yurii-mokryi.visitor-badge
 </p>
