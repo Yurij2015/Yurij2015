@@ -22,6 +22,7 @@
 I design and ship **SaaS products end-to-end** — from architecture and billing to deployment and growth. Not a "does everything" freelancer — a developer who has actually taken products from an empty repo to paying users.
 
 - 🏗️ **SaaS architecture** — multi-tenancy, Stripe/billing integrations, API design
+- 🤖 **AI & LLM integrations** — multi-provider abstractions, MCP servers, vector search, LLM observability
 - 🔧 **Long-term product ownership** — I maintain what I build, not just ship and disappear
 - ⚙️ **Backend systems** — Laravel/Symfony (PHP) and Go for performance-critical services
 - 🖥️ **Self-hosted infrastructure** — Proxmox, CI/CD with GitHub Actions, no vendor lock-in
@@ -36,8 +37,8 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 <td width="50%" valign="top">
 
 **📡 [DigiPulse](https://digipulse.cloud)**
-Reliable uptime monitoring for web apps — 60s check intervals, Telegram/email alerts, and native MCP integration so you can ask Claude about your site status in plain language. Built in Go + PostgreSQL, self-hosted on Proxmox.
-`Go` `PostgreSQL` `MCP` `Self-hosted`
+Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Ships with a multi-tenant TypeScript MCP server (per-token sessions, stdio + HTTP transports, Redis caching) so you can query your monitoring data from Claude in plain language. Backend in Go + PostgreSQL, self-hosted on Proxmox.
+`Go` `PostgreSQL` `TypeScript` `MCP` `Self-hosted`
 
 </td>
 <td width="50%" valign="top">
@@ -59,8 +60,8 @@ Laravel + Inertia + Vue product template — the foundation I reuse across clien
 <td width="50%" valign="top">
 
 **📝 NetPostPanel**
-Content management & posting automation tool — generates and schedules content across multiple sites using multi-provider AI (Gemini, with Anthropic integration planned), built to scale content production without scaling headcount.
-`Laravel` `AI Content` `Automation`
+AI content platform — multi-provider generation (Gemini/OpenAI behind a driver abstraction), semantic similarity search on Qdrant, an RSS/news aggregation engine with auto-discovery and content scraping, and Langfuse tracing for LLM observability.
+`Laravel` `AI` `Qdrant` `Langfuse` `Horizon`
 
 </td>
 </tr>
@@ -92,8 +93,10 @@ Content management & posting automation tool — generates and schedules content
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yurij2015&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com/?user=Yurij2015&hide_border=true" height="165" alt="streak stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Yurij2015&hide_border=true&theme=dark&background=00000000" />
+    <img src="https://streak-stats.demolab.com/?user=Yurij2015&hide_border=true" height="165" alt="GitHub streak stats" />
+  </picture>
 </p>
 
 ---
