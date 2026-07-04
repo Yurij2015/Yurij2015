@@ -2,17 +2,16 @@
 <h3 align="center">Full-Stack Developer & Indie Founder — I build SaaS products, not just features</h3>
 
 <p align="center">
-  <a href="https://yurij2015.github.io/">Portfolio</a> ·
-  <a href="https://digispace.pro">digispace.pro</a> ·
-  <a href="https://digispace.studio">digispace.studio</a> ·
-  <a href="https://studhouse.agency">studhouse.agency</a> ·
-  <a href="https://www.upwork.com/freelancers/mokryiyurii">Upwork</a> ·
-  <a href="https://www.linkedin.com/in/yurii-mokryi">LinkedIn</a>
+  <a href="https://yurij2015.github.io/" target="_blank">Portfolio</a> ·
+  <a href="https://digispace.pro" target="_blank">digispace.pro</a> ·
+  <a href="https://digispace.studio" target="_blank">digispace.studio</a>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@YuriiMokryi">YouTube</a> ·
-  <a href="https://www.instagram.com/yurii_mokryi/">Instagram</a> ·
-  <a href="https://www.tiktok.com/@yriimokryi">TikTok</a>
+  <a href="https://www.upwork.com/freelancers/mokryiyurii" target="_blank">Upwork</a> ·
+  <a href="https://www.linkedin.com/in/yurii-mokryi" target="_blank">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@YuriiMokryi" target="_blank">YouTube</a> ·
+  <a href="https://www.instagram.com/yurii_mokryi/" target="_blank">Instagram</a> ·
+  <a href="https://www.tiktok.com/@yriimokryi" target="_blank">TikTok</a>
 </p>
 
 ---
