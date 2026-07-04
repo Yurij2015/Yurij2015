@@ -46,6 +46,7 @@ Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alert
 **🐾 VetSpace**
 Two-sided veterinary platform — a public clinic catalog built for SEO-first acquisition and a subscription-based clinic CRM (appointments, visits, patient records) as separate Vue/Nuxt apps over one Laravel core API. Database-per-tenant architecture, Stripe subscriptions via Cashier, GraphQL + REST, and AI-assisted visit analysis through a dedicated Go microservice. Built through my <a href="https://digispace.studio">Pet-Tech studio</a>.
 `Laravel` `Vue/Nuxt` `Multi-tenant` `Stripe` `GraphQL` `AI`
+💻 Core API · Clinic CRM · Public catalog <i>(private repos)</i>
 
 </td>
 </tr>
