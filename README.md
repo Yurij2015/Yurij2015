@@ -2,11 +2,14 @@
 <h3 align="center">Full-Stack Developer & Indie Founder — I build SaaS products, not just features</h3>
 
 <p align="center">
+  🌐 <b>My sites:</b>&nbsp;
   <a href="https://yurij2015.github.io/" target="_blank">Portfolio</a> ·
   <a href="https://digispace.pro" target="_blank">digispace.pro</a> ·
   <a href="https://digispace.studio" target="_blank">digispace.studio</a>
 </p>
+
 <p align="center">
+  🔗 <b>Find me on:</b>&nbsp;
   <a href="https://www.upwork.com/freelancers/mokryiyurii" target="_blank">Upwork</a> ·
   <a href="https://www.linkedin.com/in/yurii-mokryi" target="_blank">LinkedIn</a> ·
   <a href="https://www.youtube.com/@YuriiMokryi" target="_blank">YouTube</a> ·
