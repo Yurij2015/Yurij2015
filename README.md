@@ -24,7 +24,7 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 - 🤖 **AI & LLM integrations** — multi-provider abstractions, MCP servers, vector search, LLM observability
 - 🔧 **Long-term product ownership** — I maintain what I build, not just ship and disappear
 - ⚙️ **Backend systems** — Laravel/Symfony (PHP) and Go for performance-critical services
-- 🖥️ **Self-hosted infrastructure** — Proxmox, CI/CD with GitHub Actions, no vendor lock-in
+- 🖥️ **Self-hosted infrastructure** — Proxmox, Terraform (IaC), CI/CD with GitHub Actions, no vendor lock-in
 - 📈 **SEO-driven growth** — I build products with organic acquisition baked in, not bolted on
 
 ---
@@ -86,6 +86,8 @@ AI content platform — multi-provider generation (Gemini/OpenAI behind a driver
 
 **Data & Infra**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
