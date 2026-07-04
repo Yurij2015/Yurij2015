@@ -35,14 +35,14 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 <tr>
 <td width="50%" valign="top">
 
-**📡 [DigiPulse](https://digipulse.cloud)**
+**📡 <a href="https://digipulse.cloud" target="_blank">DigiPulse</a>**
 Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Ships with a multi-tenant TypeScript MCP server (per-token sessions, stdio + HTTP transports, Redis caching) so you can query your monitoring data from Claude in plain language. Backend in Go + PostgreSQL, self-hosted on Proxmox.
 `Go` `PostgreSQL` `TypeScript` `MCP` `Self-hosted`
 
 </td>
 <td width="50%" valign="top">
 
-**🐾 [VetSpace](https://digispace.studio)**
+**🐾 <a href="https://digispace.studio" target="_blank">VetSpace</a>**
 Two-sided platform for the veterinary market — a public clinic catalog built for SEO-first acquisition, paired with a practice management app for appointments, patients, and billing. Built and delivered through my Pet-Tech studio.
 `Laravel` `Vue/Nuxt` `SEO` `Multi-tenant`
 
@@ -51,7 +51,7 @@ Two-sided platform for the veterinary market — a public clinic catalog built f
 <tr>
 <td width="50%" valign="top">
 
-**⚡ [DigiSpace](https://github.com/Yurij2015/DigiSpace)**
+**⚡ <a href="https://github.com/Yurij2015/DigiSpace" target="_blank">DigiSpace</a>**
 Laravel + Inertia + Vue product template — the foundation I reuse across client and product work for fast, clean SaaS scaffolding.
 `Laravel` `Inertia` `Vue` `Vite`
 
@@ -74,6 +74,7 @@ AI content platform — multi-provider generation (Gemini/OpenAI behind a driver
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=flat-square&logo=yii&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frontend**
@@ -102,8 +103,8 @@ AI content platform — multi-provider generation (Gemini/OpenAI behind a driver
 
 ### 🤝 Let's work together
 
-I'm currently taking on **Laravel SaaS & Stripe billing** projects — multi-tenant systems, long-term support contracts, and integration work — through my agency [DigiSpace](https://digispace.pro) or directly on Upwork.
+I'm currently taking on **Laravel SaaS & Stripe billing** projects — multi-tenant systems, long-term support contracts, and integration work — through my agency <a href="https://digispace.pro" target="_blank">DigiSpace</a> or directly on Upwork.
 
-📬 Reach me via [DigiSpace](https://digispace.pro/contact-us) · [Upwork](https://www.upwork.com/freelancers/mokryiyurii) · [LinkedIn](https://www.linkedin.com/in/yurii-mokryi) · or open an issue on any repo above.
+📬 Reach me via <a href="https://digispace.pro/contact-us" target="_blank">DigiSpace</a> · <a href="https://www.upwork.com/freelancers/mokryiyurii" target="_blank">Upwork</a> · <a href="https://www.linkedin.com/in/yurii-mokryi" target="_blank">LinkedIn</a> · or open an issue on any repo above.
 
 <p align="center"><i>Based in Poznań, Poland 🇵🇱</i></p>
