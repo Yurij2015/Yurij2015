@@ -31,6 +31,13 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 
 ### 🛠️ Featured Products
 
+<p align="center">
+  <a href="#-digipulse">📡 DigiPulse</a> ·
+  <a href="#-vetspace">🐾 VetSpace</a> ·
+  <a href="#-digispace">⚡ DigiSpace</a> ·
+  <a href="#-netpostpanel">📝 NetPostPanel</a>
+</p>
+
 #### 📡 DigiPulse
 
 Uptime monitoring SaaS — 60s checks, SSL expiry tracking, notifications via Telegram and transactional email. Admin panel and core backend built with Laravel (Octane, Reverb websockets) and Filament; the monitoring engine is a separate Go service. Google OAuth sign-in and Cloudflare Turnstile integration. Includes an MCP server that exposes monitoring data directly to AI assistants. Self-hosted on Proxmox.
