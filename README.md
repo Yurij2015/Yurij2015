@@ -36,7 +36,7 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 <td width="50%" valign="top">
 
 **📡 DigiPulse**
-Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Ships with a multi-tenant TypeScript MCP server (per-token sessions, stdio + HTTP transports, Redis caching) so you can query your monitoring data from Claude in plain language. Backend in Go + PostgreSQL, self-hosted on Proxmox.
+Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Ships with a TypeScript MCP server (per-token sessions, stdio + HTTP transports, Redis caching) so you can query your monitoring data from Claude in plain language. Backend in Go + PostgreSQL, self-hosted on Proxmox.
 `Go` `PostgreSQL` `TypeScript` `MCP` `Self-hosted`
 🌐 <a href="https://digipulse.cloud">Website</a> · 💻 <a href="https://github.com/Yurij2015/digipulse-backend">Backend</a> · <a href="https://github.com/Yurij2015/digipulse-frontend">Frontend</a> · <a href="https://github.com/Yurij2015/digipulse-monitor">Monitor</a> · <a href="https://github.com/Yurij2015/digipulse-mcp">MCP server</a>
 
