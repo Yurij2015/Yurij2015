@@ -9,6 +9,7 @@
 
 <p align="center">
   🔗 <b>Find me on:</b>&nbsp;
+  <a href="https://t.me/YuriiMokryi">Telegram</a> ·
   <a href="https://www.upwork.com/freelancers/mokryiyurii">Upwork</a> ·
   <a href="https://www.linkedin.com/in/yurii-mokryi">LinkedIn</a> ·
   <a href="https://www.youtube.com/@YuriiMokryi">YouTube</a>
@@ -32,10 +33,10 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 ### 🛠️ Featured Products
 
 <p align="center">
-  <a href="#-digipulse">📡 DigiPulse</a> ·
-  <a href="#-vetspace">🐾 VetSpace</a> ·
-  <a href="#-digispace">⚡ DigiSpace</a> ·
-  <a href="#-netpostpanel">📝 NetPostPanel</a>
+  <a href="#digipulse">📡 DigiPulse</a> ·
+  <a href="#vetspace">🐾 VetSpace</a> ·
+  <a href="#digispace">⚡ DigiSpace</a> ·
+  <a href="#netpostpanel">📝 NetPostPanel</a>
 </p>
 
 #### 📡 DigiPulse
@@ -46,7 +47,7 @@ Uptime monitoring SaaS — 60s checks, SSL expiry tracking, notifications via Te
 
 🌐 <a href="https://digipulse.cloud">Website</a> · 💻 <a href="https://github.com/Yurij2015/digipulse-backend">Backend</a> · <a href="https://github.com/Yurij2015/digipulse-frontend">Frontend</a> · <a href="https://github.com/Yurij2015/digipulse-monitor">Monitor</a> · <a href="https://github.com/Yurij2015/digipulse-mcp">MCP server</a>
 
----
+<br>
 
 #### 🐾 VetSpace
 
@@ -56,7 +57,7 @@ Two-sided veterinary platform — a public clinic catalog built for SEO-first ac
 
 💻 Core API · Clinic CRM · Public catalog <i>(private repos)</i>
 
----
+<br>
 
 #### ⚡ DigiSpace
 
@@ -66,13 +67,15 @@ Codebase behind <a href="https://digispace.pro">digispace.pro</a> — public age
 
 🌐 <a href="https://digispace.pro">Website</a> · 💻 <a href="https://github.com/Yurij2015/DigiSpace">Repo</a>
 
----
+<br>
 
 #### 📝 NetPostPanel
 
 AI content platform — multi-provider generation (Gemini/OpenAI behind a driver abstraction), semantic similarity search on Qdrant, an RSS/news aggregation engine with auto-discovery and content scraping, and Langfuse tracing for LLM observability.
 
 `Laravel` `AI` `Qdrant` `Langfuse` `Horizon`
+
+💻 In active development <i>(private repo)</i>
 
 ---
 
@@ -116,6 +119,14 @@ AI content platform — multi-provider generation (Gemini/OpenAI behind a driver
 
 I'm currently taking on **SaaS development & Stripe billing** projects — Laravel, Symfony, and Go backends, multi-tenant systems, long-term support contracts, and integration work — through my agency <a href="https://digispace.pro">DigiSpace</a> or directly on Upwork.
 
-📬 Reach me via <a href="https://www.linkedin.com/in/yurii-mokryi">LinkedIn</a> · <a href="https://t.me/YuriiMokryi">Telegram</a> · <a href="https://www.upwork.com/freelancers/mokryiyurii">Upwork</a> · or open an issue on any repo above.
+<p align="center">
+  <a href="https://t.me/YuriiMokryi"><img src="https://img.shields.io/badge/💬_Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message me on Telegram"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yurii-mokryi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/mokryiyurii"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+</p>
 
 <p align="center"><i>Based in Poznań, Poland 🇵🇱</i></p>
