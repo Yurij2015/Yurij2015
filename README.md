@@ -3,15 +3,15 @@
 
 <p align="center">
   🌐 <b>My sites:</b>&nbsp;
-  <a href="https://yurij2015.github.io/" target="_blank">Portfolio</a> ·
-  <a href="https://digispace.pro" target="_blank">digispace.pro</a>
+  <a href="https://yurij2015.github.io/">Portfolio</a> ·
+  <a href="https://digispace.pro">digispace.pro</a>
 </p>
 
 <p align="center">
   🔗 <b>Find me on:</b>&nbsp;
-  <a href="https://www.upwork.com/freelancers/mokryiyurii" target="_blank">Upwork</a> ·
-  <a href="https://www.linkedin.com/in/yurii-mokryi" target="_blank">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@YuriiMokryi" target="_blank">YouTube</a>
+  <a href="https://www.upwork.com/freelancers/mokryiyurii">Upwork</a> ·
+  <a href="https://www.linkedin.com/in/yurii-mokryi">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@YuriiMokryi">YouTube</a>
 </p>
 
 ---
@@ -38,13 +38,13 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 **📡 DigiPulse**
 Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Ships with a multi-tenant TypeScript MCP server (per-token sessions, stdio + HTTP transports, Redis caching) so you can query your monitoring data from Claude in plain language. Backend in Go + PostgreSQL, self-hosted on Proxmox.
 `Go` `PostgreSQL` `TypeScript` `MCP` `Self-hosted`
-🌐 <a href="https://digipulse.cloud" target="_blank">Website</a> · 💻 <a href="https://github.com/Yurij2015/digipulse-backend" target="_blank">Backend</a> · <a href="https://github.com/Yurij2015/digipulse-frontend" target="_blank">Frontend</a> · <a href="https://github.com/Yurij2015/digipulse-monitor" target="_blank">Monitor</a> · <a href="https://github.com/Yurij2015/digipulse-mcp" target="_blank">MCP server</a>
+🌐 <a href="https://digipulse.cloud">Website</a> · 💻 <a href="https://github.com/Yurij2015/digipulse-backend">Backend</a> · <a href="https://github.com/Yurij2015/digipulse-frontend">Frontend</a> · <a href="https://github.com/Yurij2015/digipulse-monitor">Monitor</a> · <a href="https://github.com/Yurij2015/digipulse-mcp">MCP server</a>
 
 </td>
 <td width="50%" valign="top">
 
 **🐾 VetSpace**
-Two-sided platform for the veterinary market — a public clinic catalog built for SEO-first acquisition, paired with a practice management app for appointments, patients, and billing. Built and delivered through my <a href="https://digispace.studio" target="_blank">Pet-Tech studio</a>.
+Two-sided platform for the veterinary market — a public clinic catalog built for SEO-first acquisition, paired with a practice management app for appointments, patients, and billing. Built and delivered through my <a href="https://digispace.studio">Pet-Tech studio</a>.
 `Laravel` `Vue/Nuxt` `SEO` `Multi-tenant`
 
 </td>
@@ -55,7 +55,7 @@ Two-sided platform for the veterinary market — a public clinic catalog built f
 **⚡ DigiSpace**
 Laravel + Inertia + Vue product template — the foundation I reuse across client and product work for fast, clean SaaS scaffolding.
 `Laravel` `Inertia` `Vue` `Vite`
-🌐 <a href="https://digispace.pro" target="_blank">Website</a> · 💻 <a href="https://github.com/Yurij2015/DigiSpace" target="_blank">Repo</a>
+🌐 <a href="https://digispace.pro">Website</a> · 💻 <a href="https://github.com/Yurij2015/DigiSpace">Repo</a>
 
 </td>
 <td width="50%" valign="top">
@@ -105,8 +105,8 @@ AI content platform — multi-provider generation (Gemini/OpenAI behind a driver
 
 ### 🤝 Let's work together
 
-I'm currently taking on **Laravel SaaS & Stripe billing** projects — multi-tenant systems, long-term support contracts, and integration work — through my agency <a href="https://digispace.pro" target="_blank">DigiSpace</a> or directly on Upwork.
+I'm currently taking on **Laravel SaaS & Stripe billing** projects — multi-tenant systems, long-term support contracts, and integration work — through my agency <a href="https://digispace.pro">DigiSpace</a> or directly on Upwork.
 
-📬 Reach me via <a href="https://digispace.pro/contact-us" target="_blank">DigiSpace</a> · <a href="https://www.upwork.com/freelancers/mokryiyurii" target="_blank">Upwork</a> · <a href="https://www.linkedin.com/in/yurii-mokryi" target="_blank">LinkedIn</a> · or open an issue on any repo above.
+📬 Reach me via <a href="https://digispace.pro/contact-us">DigiSpace</a> · <a href="https://www.upwork.com/freelancers/mokryiyurii">Upwork</a> · <a href="https://www.linkedin.com/in/yurii-mokryi">LinkedIn</a> · or open an issue on any repo above.
 
 <p align="center"><i>Based in Poznań, Poland 🇵🇱</i></p>
