@@ -35,15 +35,16 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 <tr>
 <td width="50%" valign="top">
 
-**📡 <a href="https://digipulse.cloud" target="_blank">DigiPulse</a>**
+**📡 DigiPulse**
 Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Ships with a multi-tenant TypeScript MCP server (per-token sessions, stdio + HTTP transports, Redis caching) so you can query your monitoring data from Claude in plain language. Backend in Go + PostgreSQL, self-hosted on Proxmox.
 `Go` `PostgreSQL` `TypeScript` `MCP` `Self-hosted`
+🌐 <a href="https://digipulse.cloud" target="_blank">Website</a> · 💻 <a href="https://github.com/Yurij2015/digipulse-backend" target="_blank">Backend</a> · <a href="https://github.com/Yurij2015/digipulse-frontend" target="_blank">Frontend</a> · <a href="https://github.com/Yurij2015/digipulse-monitor" target="_blank">Monitor</a> · <a href="https://github.com/Yurij2015/digipulse-mcp" target="_blank">MCP server</a>
 
 </td>
 <td width="50%" valign="top">
 
-**🐾 <a href="https://digispace.studio" target="_blank">VetSpace</a>**
-Two-sided platform for the veterinary market — a public clinic catalog built for SEO-first acquisition, paired with a practice management app for appointments, patients, and billing. Built and delivered through my Pet-Tech studio.
+**🐾 VetSpace**
+Two-sided platform for the veterinary market — a public clinic catalog built for SEO-first acquisition, paired with a practice management app for appointments, patients, and billing. Built and delivered through my <a href="https://digispace.studio" target="_blank">Pet-Tech studio</a>.
 `Laravel` `Vue/Nuxt` `SEO` `Multi-tenant`
 
 </td>
@@ -51,9 +52,10 @@ Two-sided platform for the veterinary market — a public clinic catalog built f
 <tr>
 <td width="50%" valign="top">
 
-**⚡ <a href="https://github.com/Yurij2015/DigiSpace" target="_blank">DigiSpace</a>**
+**⚡ DigiSpace**
 Laravel + Inertia + Vue product template — the foundation I reuse across client and product work for fast, clean SaaS scaffolding.
 `Laravel` `Inertia` `Vue` `Vite`
+🌐 <a href="https://digispace.pro" target="_blank">Website</a> · 💻 <a href="https://github.com/Yurij2015/DigiSpace" target="_blank">Repo</a>
 
 </td>
 <td width="50%" valign="top">
