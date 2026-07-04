@@ -31,43 +31,41 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 
 ### 🛠️ Featured Products
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### 📡 DigiPulse
 
-**📡 DigiPulse**
-Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Admin panel and core backend built with Laravel and Filament; the monitoring engine is a separate Go service. Includes an MCP server that exposes monitoring data directly to AI assistants. Self-hosted on Proxmox.
-`Laravel` `Filament` `Go` `PostgreSQL` `MCP` `Self-hosted`
+Uptime monitoring SaaS — 60s checks, SSL expiry tracking, notifications via Telegram and transactional email. Admin panel and core backend built with Laravel (Octane, Reverb websockets) and Filament; the monitoring engine is a separate Go service. Google OAuth sign-in and Cloudflare Turnstile integration. Includes an MCP server that exposes monitoring data directly to AI assistants. Self-hosted on Proxmox.
+
+`Laravel` `Filament` `Octane` `Go` `PostgreSQL` `MCP` `Self-hosted`
+
 🌐 <a href="https://digipulse.cloud">Website</a> · 💻 <a href="https://github.com/Yurij2015/digipulse-backend">Backend</a> · <a href="https://github.com/Yurij2015/digipulse-frontend">Frontend</a> · <a href="https://github.com/Yurij2015/digipulse-monitor">Monitor</a> · <a href="https://github.com/Yurij2015/digipulse-mcp">MCP server</a>
 
-</td>
-<td width="50%" valign="top">
+---
 
-**🐾 VetSpace**
+#### 🐾 VetSpace
+
 Two-sided veterinary platform — a public clinic catalog built for SEO-first acquisition and a subscription-based clinic CRM (appointments, visits, patient records) as separate Vue/Nuxt apps over one Laravel core API. Database-per-tenant architecture, Stripe subscriptions via Cashier, GraphQL + REST, and AI-assisted visit analysis through a dedicated Go microservice. Built through my <a href="https://digispace.studio">Pet-Tech studio</a>.
+
 `Laravel` `Vue/Nuxt` `Multi-tenant` `Stripe` `GraphQL` `AI`
+
 💻 Core API · Clinic CRM · Public catalog <i>(private repos)</i>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-**⚡ DigiSpace**
-Laravel + Inertia + Vue product template — the foundation I reuse across client and product work for fast, clean SaaS scaffolding.
-`Laravel` `Inertia` `Vue` `Vite`
+#### ⚡ DigiSpace
+
+Codebase behind <a href="https://digispace.pro">digispace.pro</a> — public agency site, admin panel, and a custom CMS built with Laravel, Inertia, and Vue. Open source: the same production code that runs the live site.
+
+`Laravel` `Inertia` `Vue` `CMS` `Vite`
+
 🌐 <a href="https://digispace.pro">Website</a> · 💻 <a href="https://github.com/Yurij2015/DigiSpace">Repo</a>
 
-</td>
-<td width="50%" valign="top">
+---
 
-**📝 NetPostPanel**
+#### 📝 NetPostPanel
+
 AI content platform — multi-provider generation (Gemini/OpenAI behind a driver abstraction), semantic similarity search on Qdrant, an RSS/news aggregation engine with auto-discovery and content scraping, and Langfuse tracing for LLM observability.
-`Laravel` `AI` `Qdrant` `Langfuse` `Horizon`
 
-</td>
-</tr>
-</table>
+`Laravel` `AI` `Qdrant` `Langfuse` `Horizon`
 
 ---
 
@@ -87,6 +85,7 @@ AI content platform — multi-provider generation (Gemini/OpenAI behind a driver
 
 **Data & Infra**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
