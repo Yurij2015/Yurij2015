@@ -107,8 +107,8 @@ AI content platform — multi-provider generation (Gemini/OpenAI behind a driver
 
 ### 🤝 Let's work together
 
-I'm currently taking on **Laravel SaaS & Stripe billing** projects — multi-tenant systems, long-term support contracts, and integration work — through my agency <a href="https://digispace.pro">DigiSpace</a> or directly on Upwork.
+I'm currently taking on **SaaS development & Stripe billing** projects — Laravel, Symfony, and Go backends, multi-tenant systems, long-term support contracts, and integration work — through my agency <a href="https://digispace.pro">DigiSpace</a> or directly on Upwork.
 
-📬 Reach me via <a href="https://digispace.pro/contact-us">DigiSpace</a> · <a href="https://www.upwork.com/freelancers/mokryiyurii">Upwork</a> · <a href="https://www.linkedin.com/in/yurii-mokryi">LinkedIn</a> · or open an issue on any repo above.
+📬 Reach me via <a href="https://www.linkedin.com/in/yurii-mokryi">LinkedIn</a> · <a href="https://t.me/YuriiMokryi">Telegram</a> · <a href="https://www.upwork.com/freelancers/mokryiyurii">Upwork</a> · or open an issue on any repo above.
 
 <p align="center"><i>Based in Poznań, Poland 🇵🇱</i></p>
