@@ -36,16 +36,16 @@ I design and ship **SaaS products end-to-end** — from architecture and billing
 <td width="50%" valign="top">
 
 **📡 DigiPulse**
-Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Ships with a TypeScript MCP server (per-token sessions, stdio + HTTP transports, Redis caching) so you can query your monitoring data from Claude in plain language. Backend in Go + PostgreSQL, self-hosted on Proxmox.
-`Go` `PostgreSQL` `TypeScript` `MCP` `Self-hosted`
+Uptime monitoring SaaS — 60s checks, SSL expiry tracking, Telegram/email alerts. Admin panel and core backend built with Laravel and Filament; the monitoring engine is a separate Go service. Includes an MCP server that exposes monitoring data directly to AI assistants. Self-hosted on Proxmox.
+`Laravel` `Filament` `Go` `PostgreSQL` `MCP` `Self-hosted`
 🌐 <a href="https://digipulse.cloud">Website</a> · 💻 <a href="https://github.com/Yurij2015/digipulse-backend">Backend</a> · <a href="https://github.com/Yurij2015/digipulse-frontend">Frontend</a> · <a href="https://github.com/Yurij2015/digipulse-monitor">Monitor</a> · <a href="https://github.com/Yurij2015/digipulse-mcp">MCP server</a>
 
 </td>
 <td width="50%" valign="top">
 
 **🐾 VetSpace**
-Two-sided platform for the veterinary market — a public clinic catalog built for SEO-first acquisition, paired with a practice management app for appointments, patients, and billing. Built and delivered through my <a href="https://digispace.studio">Pet-Tech studio</a>.
-`Laravel` `Vue/Nuxt` `SEO` `Multi-tenant`
+Two-sided veterinary platform — a public clinic catalog built for SEO-first acquisition and a subscription-based clinic CRM (appointments, visits, patient records) as separate Vue/Nuxt apps over one Laravel core API. Database-per-tenant architecture, Stripe subscriptions via Cashier, GraphQL + REST, and AI-assisted visit analysis through a dedicated Go microservice. Built through my <a href="https://digispace.studio">Pet-Tech studio</a>.
+`Laravel` `Vue/Nuxt` `Multi-tenant` `Stripe` `GraphQL` `AI`
 
 </td>
 </tr>
